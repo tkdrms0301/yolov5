@@ -1,0 +1,1 @@
+!python train.py --img 416 --batch 32 --epochs 30 --data F:\yolo\yolov5\data\hard_head.yaml --cfg F:\yolo\yolov5\models\yolov5s.yaml --weights yolov5s.pt
