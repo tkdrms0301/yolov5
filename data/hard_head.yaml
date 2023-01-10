@@ -1,0 +1,7 @@
+names:
+- helmet
+- head
+- person
+nc: '3'
+train: F:\yolo\images\train
+val: F:\yolo\images\val
